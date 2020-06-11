@@ -3,86 +3,87 @@
 
 var products = [
 	{
-		name: "brocoli",
+		name: "Broccoli",
 		vegetarian: true,
 		glutenFree: true,
 		organic: true,
 		price: 1.99
-        imgUrl: 'https://unsplash.com/photos/D6Tu_L3chLE'
+      
 
 	},
 	{
-		name: "cucumber",
+		name: "Cucumber",
 		vegetarian: true,
 		glutenFree: true,
 		organic: true,
 		price: 0.99
 	},
 	{
-		name: "hot dog",
+		name: "Hot dog",
 		vegetarian: false,
 		glutenFree: true,
 		organic: false,
 		price: 2.39
 	},
 	{
-		name: "brown rice",
+		name: "Tomatoes",
 		vegetarian: true,
 		glutenFree: true,
 		organic: false,
 		price: 6.75
 	},
 	{
-		name: "egg basket",
+		name: "Eggs",
 		vegetarian: false,
 		glutenFree: true,
 		organic: true,
 		price: 2.99
 	},
 	{
-		name: "bananas",
+		name: "Banana",
 		vegetarian: true,
 		glutenFree: true,
 		organic: false,
-		price: 0.69
+		price: 0.69,
+		 
 	},
 	{
-		name: "ham",
+		name: "Ham",
 		vegetarian: false,
 		glutenFree: false,
 		organic: true,
 		price: 6.99
 	},
 	{
-		name: "checken",
+		name: "Chicken",
 		vegetarian: false,
 		glutenFree: true,
 		organic: false,
 		price: 2.88
 	},
 	{
-		name: "ice cream",
-		vegetarian: false,
-		glutenFree: false,
-		organic: false,
+		name: "Radish",
+		vegetarian: true,
+		glutenFree: true,
+		organic: true,
 		price: 2.54
 	},
 	{
-		name: "orange juice",
+		name: "Orang juice",
 		vegetarian: true,
 		glutenFree: true,
 		organic: false,
 		price: 3.99
 	},
 	{
-		name: "bread",
+		name: "Bread",
 		vegetarian: true,
 		glutenFree: false,
 		organic: false,
 		price: 2.35
 	},
 	{
-		name: "salmon",
+		name: "Salamon",
 		vegetarian: false,
 		glutenFree: true,
 		organic: false,

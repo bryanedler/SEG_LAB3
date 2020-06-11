@@ -18,12 +18,14 @@
 <div id="Client" class="tabcontent">
   <h3>Client Information</h3>
   <p>Do you have any food preferances?</p>
-	Choose a Category:
+	please choose!:
 	<select id="dietSelect" name="dietSelect" onchange="populateListProductChoices(this.id, 'displayProduct')">
 	<option value=""></option>
 	<option value="Vegetarian">Vegetarian</option>
     <option value="GlutenFree">GlutenFree</option>
+    <option value="Organic">Organic</option>
     <option value="None">None</option>
+    
 	</select>
 </div>
 
@@ -39,7 +41,7 @@
 
 <div id="Cart" class="tabcontent">
   <h3>Cart</h3>
-  <p>Here is your cart.</p>
+  <p>In your Cart:</p>
   <div id="displayCart"></div>
 </div>
 
